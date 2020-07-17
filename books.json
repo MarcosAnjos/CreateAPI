@@ -1,0 +1,26 @@
+[
+    {
+        "isbn": "9876543210",
+        "title": "A vida é bela",
+        "author": "Marcos Alexandre",
+        "publish_date": "2020-07-03",
+        "publish": "Angels",
+        "numOfPages": 472
+    },
+    {
+        "isbn": "0123456789",
+        "title": "Game os Thornes",
+        "author": "George R. R. Martin",
+        "publish_date": "1992-10-5",
+        "publish": "XYZ",
+        "numOfPages": 992
+    },
+    {
+        "isbn": "51654562582",
+        "title": "Teste tes",
+        "author": "teste teste teste",
+        "publish_date": "2020-01-01",
+        "publish": "xxx",
+        "numOfPages": 123
+    }
+]
